@@ -24,7 +24,7 @@ It is designed to run automatically to keep a personal news dashboard, reading l
 Make sure you have Python installed along with the required libraries:
 
 ```bash
-pip install requests lxml beautifulsoup4 yt-dlp python-dateutil fake-useragent
+pip install -r requirements.txt
 
 ```
 

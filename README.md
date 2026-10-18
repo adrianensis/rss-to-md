@@ -4,6 +4,8 @@ A Python script that automatically turns RSS feeds, podcast channels, and even r
 
 It is designed to run automatically to keep a personal news dashboard, reading list, or Telegram news feed up to date.
 
+![Screenshot_20261018_112145.png](Screenshot_20261018_112145.png)
+
 ---
 
 ## ✨ What it does

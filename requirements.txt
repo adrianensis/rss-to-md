@@ -1,0 +1,6 @@
+lxml
+requests
+python-dateutil
+fake-useragent
+yt-dlp
+quickjs

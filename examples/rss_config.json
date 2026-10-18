@@ -1,0 +1,10 @@
+{
+    "ignore_links_contain": [
+        "youtube.com/shorts"
+    ],
+    "ignore_titles_contain": [
+        "futbol",
+        "fútbol",
+        "Trump"
+    ]
+}

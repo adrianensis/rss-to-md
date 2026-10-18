@@ -17,9 +17,7 @@ It is designed to run automatically to keep a personal news dashboard, reading l
 
 ---
 
-## 🚀 How to Use It
-
-### 1. Prerequisites
+## 📦 Requirements
 
 Make sure you have Python installed along with the required libraries:
 
@@ -28,14 +26,18 @@ pip install -r requirements.txt
 
 ```
 
-### 2. Prepare your Configuration Files
+---
+
+## 💻 How to Use It
+
+### 1. Prepare your Configuration Files
 
 You need two JSON files to run the script:
 
 * **`urls.json`**: A nested structure of your categories and websites or RSS feeds.
 * **`config.json`**: Settings file (e.g., words or links to ignore).
 
-### 3. Run the Script
+### 2. Run the Script
 
 Run the script from your terminal by passing the input JSON, output directory, and config file:
 

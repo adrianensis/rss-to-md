@@ -4,6 +4,8 @@ A Python script that automatically turns RSS feeds, podcast channels, and even r
 
 It is designed to run automatically to keep a personal news dashboard, reading list, or Telegram news feed up to date.
 
+* **⚠️ NOTE ⚠️**: This repo **only generates Markdown**, the screenshot is the result of converting such **Markdown to HTML using my other repo**: [md-to-html](https://github.com/adrianensis/md-to-html/)
+
 ![Screenshot_20261018_112145.png](Screenshot_20261018_112145.png)
 
 ---
